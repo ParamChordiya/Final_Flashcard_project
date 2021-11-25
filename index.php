@@ -1,1 +1,1 @@
-<?php header( 'Location: /app.py' ) ; ?>
+<?php header( 'Location: /flashkard/templates/landing.html' ) ; ?>
